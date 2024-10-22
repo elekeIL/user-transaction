@@ -1,0 +1,912 @@
+[
+    {
+        "countryName": "Algeria",
+        "countryCode": "DZ",
+        "name": "Algerian Dinar",
+        "iso4217Code": "DZD",
+        "symbol": "د.ج",
+        "majorUnitName": "Dinar",
+        "minorUnitName": "Santeem",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "name": "Angolan Kwanza",
+        "iso4217Code": "AOA",
+        "symbol": "Kz",
+        "majorUnitName": "Kwanza",
+        "minorUnitName": "Cêntimo",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "name": "West African CFA Franc",
+        "iso4217Code": "XOF",
+        "symbol": "Fr",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centeime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Botswana",
+        "countryCode": "BW",
+        "name": "Botswana Pula",
+        "iso4217Code": "BWP",
+        "symbol": "P",
+        "majorUnitName": "Pula",
+        "minorUnitName": "Thebe",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Burkina Faso",
+        "countryCode": "BF",
+        "name": "West African CFA Franc",
+        "iso4217Code": "XOF",
+        "symbol": "Fr",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centeime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Burundi",
+        "countryCode": "BI",
+        "name": "Burundian Franc",
+        "iso4217Code": "BIF",
+        "symbol": "FBu",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Cabo Verde",
+        "countryCode": "CV",
+        "name": "Cape Verdean Escudo",
+        "iso4217Code": "CVE",
+        "symbol": "Esc",
+        "majorUnitName": "Escudo",
+        "minorUnitName": "Centavo",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "name": "Central African CFA Franc",
+        "iso4217Code": "XAF",
+        "symbol": "FCFA",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centeime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Central African Republic",
+        "countryCode": "CF",
+        "name": "Central African CFA Franc",
+        "iso4217Code": "XAF",
+        "symbol": "FCFA",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centeime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Chad",
+        "countryCode": "TD",
+        "name": "Central African CFA Franc",
+        "iso4217Code": "XAF",
+        "symbol": "FCFA",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centeime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Comoros",
+        "countryCode": "KM",
+        "name": "Comorian Franc",
+        "iso4217Code": "KMF",
+        "symbol": "CF",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Democratic Republic of the Congo",
+        "countryCode": "CD",
+        "name": "Congolese Franc",
+        "iso4217Code": "CDF",
+        "symbol": "FC",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Republic of the Congo",
+        "countryCode": "CG",
+        "name": "Central African CFA Franc",
+        "iso4217Code": "XAF",
+        "symbol": "FCFA",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Cote d'Ivoire",
+        "countryCode": "CI",
+        "name": "West African CFA Franc",
+        "iso4217Code": "XOF",
+        "symbol": "Fr",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Djibouti",
+        "countryCode": "DJ",
+        "name": "Djiboutian Franc",
+        "iso4217Code": "DJF",
+        "symbol": "Fdj",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "name": "Egyptian Pound",
+        "iso4217Code": "EGP",
+        "symbol": "E£",
+        "majorUnitName": "Pound",
+        "minorUnitName": "Piastre",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Equatorial Guinea",
+        "countryCode": "GQ",
+        "name": "Central African CFA Franc",
+        "iso4217Code": "XAF",
+        "symbol": "FCFA",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Eritrea",
+        "countryCode": "ER",
+        "name": "Eritrean Nakfa",
+        "iso4217Code": "ERN",
+        "symbol": "Nfk",
+        "majorUnitName": "Nakfa",
+        "minorUnitName": "Cent",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Eswatini (formerly Swaziland)",
+        "countryCode": "SZ",
+        "name": "Swazi Lilangeni",
+        "iso4217Code": "SZL",
+        "symbol": "E",
+        "majorUnitName": "Lilangeni",
+        "minorUnitName": "Cent",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Ethiopia",
+        "countryCode": "ET",
+        "name": "Ethiopian Birr",
+        "iso4217Code": "ETB",
+        "symbol": "Br",
+        "majorUnitName": "Birr",
+        "minorUnitName": "Santim",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Gabon",
+        "countryCode": "GA",
+        "name": "Central African CFA Franc",
+        "iso4217Code": "XAF",
+        "symbol": "FCFA",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centeime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Gambia",
+        "countryCode": "GM",
+        "name": "Gambian Dalasi",
+        "iso4217Code": "GMD",
+        "symbol": "D",
+        "majorUnitName": "Dalasi",
+        "minorUnitName": "Butut",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Ghana",
+        "countryCode": "GH",
+        "name": "Ghanaian Cedi",
+        "iso4217Code": "GHS",
+        "symbol": "GH₵",
+        "majorUnitName": "Cedi",
+        "minorUnitName": "Pesewa",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Guinea",
+        "countryCode": "GN",
+        "name": "Guinean Franc",
+        "iso4217Code": "GNF",
+        "symbol": "FG",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Guinea-Bissau",
+        "countryCode": "GW",
+        "name": "West African CFA Franc",
+        "iso4217Code": "XOF",
+        "symbol": "Fr",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Kenya",
+        "countryCode": "KE",
+        "name": "Kenyan Shilling",
+        "iso4217Code": "KES",
+        "symbol": "KSh",
+        "majorUnitName": "Shilling",
+        "minorUnitName": "Cent",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Lesotho",
+        "countryCode": "LS",
+        "name": "Lesotho Loti",
+        "iso4217Code": "LSL",
+        "symbol": "L",
+        "majorUnitName": "Loti",
+        "minorUnitName": "Sente",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Liberia",
+        "countryCode": "LR",
+        "name": "Liberian Dollar",
+        "iso4217Code": "LRD",
+        "symbol": "$",
+        "majorUnitName": "Dollar",
+        "minorUnitName": "Cent",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Libya",
+        "countryCode": "LY",
+        "name": "Libyan Dinar",
+        "iso4217Code": "LYD",
+        "symbol": "LD",
+        "majorUnitName": "Dinar",
+        "minorUnitName": "Dirham",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "name": "Malagasy Ariary",
+        "iso4217Code": "MGA",
+        "symbol": "Ar",
+        "majorUnitName": "Ariary",
+        "minorUnitName": "Iraimbilanja",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "name": "Malawian Kwacha",
+        "iso4217Code": "MWK",
+        "majorUnitName": "Kwacha",
+        "minorUnitName": "Tambala",
+        "symbol": "MK",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Mali",
+        "countryCode": "ML",
+        "name": "West African CFA Franc",
+        "iso4217Code": "XOF",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centime",
+        "symbol": "Fr",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Mauritania",
+        "countryCode": "MR",
+        "name": "Mauritanian Ouguiya",
+        "iso4217Code": "MRU",
+        "majorUnitName": "Ouguiya",
+        "minorUnitName": "Khoums",
+        "symbol": "UM",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "name": "Mauritian Rupee",
+        "iso4217Code": "MUR",
+        "majorUnitName": "Rupee",
+        "minorUnitName": "Cent",
+        "symbol": "Rs",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "name": "Moroccan Dirham",
+        "iso4217Code": "MAD",
+        "majorUnitName": "Dirham",
+        "minorUnitName": "Centime",
+        "symbol": "د.م.",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "name": "Mozambican Metical",
+        "iso4217Code": "MZN",
+        "majorUnitName": "Metical",
+        "minorUnitName": "Centavo",
+        "symbol": "MT",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Namibia",
+        "countryCode": "NA",
+        "name": "Namibian Dollar",
+        "iso4217Code": "NAD",
+        "majorUnitName": "Dollar",
+        "minorUnitName": "Cent",
+        "symbol": "$",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Niger",
+        "countryCode": "NE",
+        "name": "West African CFA Franc",
+        "iso4217Code": "XOF",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centime",
+        "symbol": "Fr",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Nigeria",
+        "countryCode": "NG",
+        "name": "Nigerian Naira",
+        "iso4217Code": "NGN",
+        "majorUnitName": "Naira",
+        "minorUnitName": "Kobo",
+        "symbol": "₦",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "name": "Rwandan Franc",
+        "iso4217Code": "RWF",
+        "majorUnitName": "Franc",
+        "minorUnitName": "Centime",
+        "symbol": "RF",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Sao Tome and Principe",
+        "countryCode": "ST",
+        "name": "Sao Tome and Principe Dobra",
+        "iso4217Code": "STN",
+        "symbol": "Db",
+        "majorUnitName": "Dobra",
+        "minorUnitName": "Cêntimo",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Senegal",
+        "countryCode": "SN",
+        "name": "West African CFA Franc",
+        "iso4217Code": "XOF",
+        "symbol": "Fr",
+        "majorUnitName": "CFA Franc",
+        "minorUnitName": "Centime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "name": "Seychellois Rupee",
+        "iso4217Code": "SCR",
+        "symbol": "Rs",
+        "majorUnitName": "Rupee",
+        "minorUnitName": "Cent",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Sierra Leone",
+        "countryCode": "SL",
+        "name": "Sierra Leonean Leone",
+        "iso4217Code": "SLL",
+        "symbol": "Le",
+        "majorUnitName": "Leone",
+        "minorUnitName": "Cent",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Somalia",
+        "countryCode": "SO",
+        "name": "Somali Shilling",
+        "iso4217Code": "SOS",
+        "symbol": "Sh.So.",
+        "majorUnitName": "Shilling",
+        "minorUnitName": "Cent",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "name": "South African Rand",
+        "iso4217Code": "ZAR",
+        "symbol": "R",
+        "majorUnitName": "Rand",
+        "minorUnitName": "Cent",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "South Sudan",
+        "countryCode": "SS",
+        "name": "South Sudanese Pound",
+        "iso4217Code": "SSP",
+        "symbol": "£ or ج.س",
+        "majorUnitName": "Pound",
+        "minorUnitName": "Piaster",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Sudan",
+        "countryCode": "SD",
+        "name": "Sudanese Pound",
+        "iso4217Code": "SDG",
+        "symbol": "ج.س.",
+        "majorUnitName": "Pound",
+        "minorUnitName": "Piaster",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Tanzania",
+        "countryCode": "TZ",
+        "name": "Tanzanian Shilling",
+        "iso4217Code": "TZS",
+        "symbol": "TSh",
+        "majorUnitName": "Shilling",
+        "minorUnitName": "Cent",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "name": "West African CFA Franc",
+        "iso4217Code": "XOF",
+        "symbol": "Fr",
+        "majorUnitName": "CFA Franc",
+        "minorUnitName": "Centime",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "name": "Tunisian Dinar",
+        "iso4217Code": "TND",
+        "majorUnitName": "Dinar",
+        "minorUnitName": "Millime",
+        "symbol": "د.ت",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Uganda",
+        "countryCode": "UG",
+        "name": "Ugandan Shilling",
+        "iso4217Code": "UGX",
+        "majorUnitName": "Shilling",
+        "minorUnitName": "Cent",
+        "symbol": "USh",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "United Kingdom",
+        "countryCode": "GB",
+        "name": "British Pound",
+        "iso4217Code": "gb",
+        "majorUnitName": "Pound",
+        "minorUnitName": "Pence",
+        "symbol": "£",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "United States",
+        "countryCode": "US",
+        "name": "US Dollars",
+        "iso4217Code": "USD",
+        "majorUnitName": "Dollar",
+        "minorUnitName": "Cent",
+        "symbol": "$",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Zambia",
+        "countryCode": "ZM",
+        "name": "Zambian Kwacha",
+        "iso4217Code": "ZMW",
+        "majorUnitName": "Kwacha",
+        "minorUnitName": "Ngwee",
+        "symbol": "ZK",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "name": "Zimbabwean Dollar",
+        "iso4217Code": "ZWL",
+        "majorUnitName": "Zimbabwean Dollar",
+        "minorUnitName": "Cent",
+        "symbol": "$",
+        "currencyType": "FIAT"
+    },
+    {
+        "countryName": "Lithuania",
+        "countryCode": "lt",
+        "name": "Euro",
+        "iso4217Code": "EUR",
+        "majorUnitName": "Euro",
+        "minorUnitName": "Cent",
+        "symbol": "€",
+        "currencyType": "FIAT"
+    },
+    {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Bitcoin",
+            "iso4217Code": "BTC",
+            "symbol": "₿",
+            "majorUnitName": "Bitcoin",
+            "minorUnitName": "Satoshi",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Ethereum",
+            "iso4217Code": "ETH",
+            "symbol": "Ξ",
+            "majorUnitName": "Ether",
+            "minorUnitName": "Wei",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Ripple",
+            "iso4217Code": "XRP",
+            "symbol": "XRP",
+            "majorUnitName": "XRP",
+            "minorUnitName": "Drops",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Bitcoin Cash",
+            "iso4217Code": "BCH",
+            "symbol": "Ƀ",
+            "majorUnitName": "Bitcoin Cash",
+            "minorUnitName": "Satoshi",
+            "currencyType": "CRYPTO"
+        },
+       {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Litecoin",
+            "iso4217Code": "LTC",
+            "symbol": "Ł",
+            "majorUnitName": "Litecoin",
+            "minorUnitName": "Litoshi",
+            "currencyType": "CRYPTO"
+        },
+       {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Cardano",
+            "iso4217Code": "ADA",
+            "symbol": "₳",
+            "majorUnitName": "Cardano",
+            "minorUnitName": "Lovelace",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Polkadot",
+            "iso4217Code": "DOT",
+            "symbol": "DOT",
+            "majorUnitName": "Polkadot",
+            "minorUnitName": "Planck",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Stellar",
+            "iso4217Code": "XLM",
+            "symbol": "XLM",
+            "majorUnitName": "Lumen",
+            "minorUnitName": "Stroop",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Chainlink",
+            "iso4217Code": "LINK",
+            "symbol": "LINK",
+            "majorUnitName": "Link",
+            "minorUnitName": "Link",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Binance Coin",
+            "iso4217Code": "BNB",
+            "symbol": "BNB",
+            "majorUnitName": "Binance Coin",
+            "minorUnitName": "Gwei",
+            "currencyType": "CRYPTO"
+        },
+         {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Bitcoin SV",
+            "iso4217Code": "BSV",
+            "symbol": "₿",
+            "majorUnitName": "Bitcoin SV",
+            "minorUnitName": "Satoshi",
+            "currencyType": "CRYPTO"
+        },
+         {
+            "countryName": "",
+            "countryCode": "",
+            "name": "EOS",
+            "iso4217Code": "EOS",
+            "symbol": "EOS",
+            "majorUnitName": "EOS",
+            "minorUnitName": "EOS",
+            "currencyType": "CRYPTO"
+        },
+       {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Tezos",
+            "iso4217Code": "XTZ",
+            "symbol": "ꜩ",
+            "majorUnitName": "Tez",
+            "minorUnitName": "Mutez",
+            "currencyType": "CRYPTO"
+        },
+         {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Tron",
+            "iso4217Code": "TRX",
+            "symbol": "TRX",
+            "majorUnitName": "Tron",
+            "minorUnitName": "Sun",
+            "currencyType": "CRYPTO"
+        },
+         {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Monero",
+            "iso4217Code": "XMR",
+            "symbol": "XMR",
+            "majorUnitName": "Monero",
+            "minorUnitName": "Piconero",
+            "currencyType": "CRYPTO"
+        },
+         {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Neo",
+            "iso4217Code": "NEO",
+            "symbol": "NEO",
+            "majorUnitName": "Neo",
+            "minorUnitName": "GAS",
+            "currencyType": "CRYPTO"
+        },
+    {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Tether",
+            "iso4217Code": "USDT",
+            "symbol": "USDT",
+            "majorUnitName": "Tether",
+            "minorUnitName": "Tether",
+            "currencyType": "CRYPTO"
+        },
+         {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Cardano",
+            "iso4217Code": "ADA",
+            "symbol": "₳",
+            "majorUnitName": "Cardano",
+            "minorUnitName": "Lovelace",
+            "currencyType": "CRYPTO"
+        },
+       {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Polkadot",
+            "iso4217Code": "DOT",
+            "symbol": "DOT",
+            "majorUnitName": "Polkadot",
+            "minorUnitName": "Planck",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Stellar",
+            "iso4217Code": "XLM",
+            "symbol": "XLM",
+            "majorUnitName": "Lumen",
+            "minorUnitName": "Stroop",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Chainlink",
+            "iso4217Code": "LINK",
+            "symbol": "LINK",
+            "majorUnitName": "Link",
+            "minorUnitName": "Link",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Binance Coin",
+            "iso4217Code": "BNB",
+            "symbol": "BNB",
+            "majorUnitName": "Binance Coin",
+            "minorUnitName": "Gwei",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Bitcoin SV",
+            "iso4217Code": "BSV",
+            "symbol": "₿",
+            "majorUnitName": "Bitcoin SV",
+            "minorUnitName": "Satoshi",
+            "currencyType": "CRYPTO"
+        },
+     {
+            "countryName": "",
+            "countryCode": "",
+            "name": "EOS",
+            "iso4217Code": "EOS",
+            "symbol": "EOS",
+            "majorUnitName": "EOS",
+            "minorUnitName": "EOS",
+            "currencyType": "CRYPTO"
+        },
+       {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Tezos",
+            "iso4217Code": "XTZ",
+            "symbol": "ꜩ",
+            "majorUnitName": "Tez",
+            "minorUnitName": "Mutez",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Tron",
+            "iso4217Code": "TRX",
+            "symbol": "TRX",
+            "majorUnitName": "Tron",
+            "minorUnitName": "Sun",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Monero",
+            "iso4217Code": "XMR",
+            "symbol": "XMR",
+            "majorUnitName": "Monero",
+            "minorUnitName": "Piconero",
+            "currencyType": "CRYPTO"
+        },
+       {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Neo",
+            "iso4217Code": "NEO",
+            "symbol": "NEO",
+            "majorUnitName": "Neo",
+            "minorUnitName": "GAS",
+            "currencyType": "CRYPTO"
+        },
+       {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Tether",
+            "iso4217Code": "USDT",
+            "symbol": "USDT",
+            "majorUnitName": "Tether",
+            "minorUnitName": "Tether",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Bitcoin Cash",
+            "iso4217Code": "BCH",
+            "symbol": "Ƀ",
+            "majorUnitName": "Bitcoin Cash",
+            "minorUnitName": "Satoshi",
+            "currencyType": "CRYPTO"
+        },
+       {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Litecoin",
+            "iso4217Code": "LTC",
+            "symbol": "Ł",
+            "majorUnitName": "Litecoin",
+            "minorUnitName": "Litoshi",
+            "currencyType": "CRYPTO"
+        },
+         {
+            "countryName": "",
+            "countryCode": "",
+            "name": "Bitcoin Cash ABC",
+            "iso4217Code": "BCHA",
+            "symbol": "BCHA",
+            "majorUnitName": "Bitcoin Cash ABC",
+            "minorUnitName": "Satoshi",
+            "currencyType": "CRYPTO"
+        },
+        {
+            "countryName": "",
+            "countryCode": "",
+            "name": "NEM",
+            "iso4217Code": "XEM",
+            "symbol": "XEM",
+            "majorUnitName": "NEM",
+            "minorUnitName": "Micro NEM",
+            "currencyType": "CRYPTO"
+        },
+    {
+        "countryName": "",
+        "countryCode": "",
+        "name": "Monero",
+        "iso4217Code": "XMR",
+        "symbol": "XMR",
+        "majorUnitName": "Monero",
+        "minorUnitName": "Piconero",
+        "currencyType": "CRYPTO"
+    }
+]

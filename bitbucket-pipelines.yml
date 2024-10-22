@@ -1,0 +1,34 @@
+# Template docker-push
+
+# This template allows you to build and push your docker image to a Docker Hub account.
+# The workflow allows running tests, code linting and security scans on feature branches (as well as master).
+# The docker image will be validated and pushed to the docker registry after the code is merged to master.
+
+# Prerequisites: $DOCKERHUB_USERNAME, $DOCKERHUB_PASSWORD setup as deployment variables
+
+image: atlassian/default-image:3
+
+pipelines:
+  branches:
+    staging:
+      - step:
+          name: Build and Push Docker Image
+          image: docker:20.10.7
+          services:
+            - docker
+          script:
+            - echo "$DOCKER_PASSWORD" | docker login --username $DOCKER_USERNAME --password-stdin
+            - docker build -t special_trade_license_backend:latest .
+            - docker tag special_trade_license_backend $DOCKER_USERNAME/special_trade_license_backend
+            - docker push $DOCKER_USERNAME/special_trade_license_backend:latest
+      - step:
+          name: Deploy to Remote Server
+          deployment: staging
+          trigger: automatic
+          script:
+            - export IMAGE_NAME=special_trade_license_backend
+            - apt-get update && apt-get install sshpass
+            - sshpass -p $REMOTE_SERVER_PASSWORD ssh $REMOTE_SERVER_USERNAME@$REMOTE_SERVER_IP "docker login --username $DOCKER_USERNAME --password $DOCKER_PASSWORD && docker pull $DOCKER_USERNAME/$IMAGE_NAME"
+            - sshpass -p $REMOTE_SERVER_PASSWORD ssh $REMOTE_SERVER_USERNAME@$REMOTE_SERVER_IP "docker stop $IMAGE_NAME || true"
+            - sshpass -p $REMOTE_SERVER_PASSWORD ssh $REMOTE_SERVER_USERNAME@$REMOTE_SERVER_IP "docker rm $IMAGE_NAME || true"
+            - sshpass -p $REMOTE_SERVER_PASSWORD ssh $REMOTE_SERVER_USERNAME@$REMOTE_SERVER_IP "docker run  -e "SPRING_PROFILES_ACTIVE=dev" -d --name $IMAGE_NAME -p 8002:8081 $DOCKER_USERNAME/$IMAGE_NAME"
